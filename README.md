@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, Astro, React Native and Django**
 
-- 💬 Ask me about **react, angular, spring boot,**
+- 💬 Ask me about **react, angular, express, spring boot**
 
 - 📫 How to reach me **suarezorizondocesararamis@gmail.com**
 
