@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceradev&show_icons=true&locale=en" alt="ceradev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceradev&" alt="ceradev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceradev" alt="ceradev" /></p>
