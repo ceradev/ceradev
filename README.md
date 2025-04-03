@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **suarezorizondocesararamis@gmail.com**
 
-- 🛠️ Visit my portfolio here [cera.dev](https://cera-dev.vercel.app)
+- 🛠️ Visit my portfolio here [cera.dev](https://ceradev.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
