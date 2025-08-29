@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceradev" alt="ceradev" /></a> </p>
 
-- 🔭 I’m currently working on [alphonics](https://github.com/ceradev/bar-guantanamera-web)
+- 🔭 I’m currently working on [bar-guantanamera-web](https://github.com/ceradev/bar-guantanamera-web)
 
 - 🌱 I’m currently learning **Next.js, Astro, React Native and Django**
 
