@@ -57,7 +57,7 @@ I love exploring how **AI and automation** can make technology more human and ef
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ceradev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ceradev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
