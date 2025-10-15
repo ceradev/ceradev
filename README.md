@@ -27,7 +27,7 @@ I love exploring how **AI and automation** can make technology more human and ef
 ---
 
 ### 🔭 Current Projects
-- 🧩 **[Crecen IA](https://github.com/crecenia-dev)** – AI & automation agency platform.  
+- 🧩 **[Crecen IA](https://github.com/crecen-ia)** – AI & automation agency platform.  
 - 🍰 **[Glazely](https://github.com/ceradev/glazely)** – corporate website for a local pastry shop.  
 - 🍗 **[Guantanamera Web](https://github.com/ceradev/bar-guantanamera-web)** – full website for a restaurant.  
 
