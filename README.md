@@ -1,5 +1,5 @@
 <!-- Banner principal -->
-<h1 align="center">👋 Hey there, I'm <strong>César Aramis Suárez Orizondo</strong></h1>
+<h1 align="center">👋 Hey there, I'm <strong>Ceradev</strong></h1>
 <h3 align="center">💻 Full-Stack Developer | AI Enthusiast | Founder of Crecen IA</h3>
 
 <p align="center">
