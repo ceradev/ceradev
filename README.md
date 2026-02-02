@@ -1,50 +1,74 @@
-<h1 align="center">Hey , I am Ceradev👋What's Up?</h1>
+<!-- Banner principal -->
+<h1 align="center">👋 Hey there, I'm <strong>Ceradev</strong></h1>
+<h3 align="center">💻 Full-Stack Developer | AI Enthusiast | Founder of Crecen IA</h3>
 
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="60" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/c%C3%A9sar-aramis-su%C3%A1rez-orizondo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://ceradev.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-cera.dev-3d2bff?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
   </a>
-  <a href="https://www.instagram.com/cera.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="mailto:suarezorizondocesararamis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
-</div>
+  <a href="https://www.linkedin.com/in/césar-aramis-suárez-orizondo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-6b7aff?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ceradev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+### 🧠 About Me
 
-###
+I'm a **20-year-old full-stack developer** based in **Tenerife, Canary Islands (Spain)** — passionate about technology, design and artificial intelligence.  
+Currently building **Crecen IA**, a digital agency focused on **AI-driven automation, chatbots and marketing systems**.
 
-<img src="https://raw.githubusercontent.com/ceradev/ceradev/output/snake.svg" alt="Snake animation" />
+💡 I enjoy merging **code and creativity** to craft clean, scalable and purposeful software.  
+I love exploring how **AI and automation** can make technology more human and efficient.
 
-###
+---
+
+### 🔭 Current Projects
+- 🧩 **[Crecen IA](https://github.com/crecen-ia)** – AI & automation agency platform.  
+- 🍰 **[Glazely](https://github.com/ceradev/glazely)** – corporate website for a local pastry shop.  
+- 🍗 **[Guantanamera Web](https://github.com/ceradev/bar-guantanamera-web)** – full website for a restaurant.  
+
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,astro,angular,tailwind,bootstrap,nodejs,express,java,spring,python,php,laravel,postgres,mysql,mongodb,nginx,docker,git,figma,linux" />
+</p>
+
+---
+
+### ⚙️ Tools & Specialties
+- 🚀 Frontend: **React**, **Astro**, **Next.js**, **Vue**, **Angular**  
+- ⚙️ Backend: **Spring Boot**, **Express**, **Node.js**, **Laravel**  
+- 🤖 AI & Automation: **OpenAI**, **n8n**, **LangChain**, **Twilio APIs**  
+- 💾 Databases: **PostgreSQL**, **MySQL**, **MongoDB**, **Oracle**  
+- 🎨 Design & Branding: **Figma**, **Tailwind**, **Framer Motion**  
+- ☁️ Deploy & DevOps: **Vercel**, **Netlify**, **Nginx**, **Docker**
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ceradev&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceradev&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.vercel.app/?user=ceradev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🌍 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/césar-aramis-suárez-orizondo"><img src="https://img.shields.io/badge/LinkedIn-César_Aramis_Suárez_Orizondo-3d2bff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://ceradev.com"><img src="https://img.shields.io/badge/Website-cera.dev-6b7aff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:suarezorizondocesararamis@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8b9aff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<h4 align="center">✨ “Automate today, grow tomorrow.” — Crecen IA ✨</h4>
