@@ -68,7 +68,3 @@ I love exploring how **AI and automation** can make technology more human and ef
   <a href="https://ceradev.com"><img src="https://img.shields.io/badge/Website-cera.dev-6b7aff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:suarezorizondocesararamis@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8b9aff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-<h4 align="center">✨ “Automate today, grow tomorrow.” — Crecen IA ✨</h4>
