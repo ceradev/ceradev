@@ -21,18 +21,21 @@
 
 ### About
 
-I’m César, a 20-year-old full-stack developer building production web platforms and automation systems.
+I’m César, a 21-year-old full-stack developer focused on building modern digital products, AI systems, and scalable automation workflows.
 
-I’m currently focused on **Crecen IA**, an AI and automation agency where I design tools that help businesses reduce manual work, improve operations, and launch faster. My work sits between modern frontend, backend systems, AI workflows, and practical product execution.
+My work combines software engineering, product thinking, and AI integration — from frontend experiences and backend architecture to agent-based systems, APIs, and operational automations.
+
+I currently work on freelance projects, internal products, and AI-focused platforms, with a strong interest in building tools that are practical, fast, and commercially viable.
 
 ---
 
 ### Current focus
 
-- Building AI-powered automation systems for real businesses
-- Developing full-stack platforms with clean interfaces and reliable backend architecture
-- Connecting tools such as OpenAI, n8n, LangChain, Twilio, CRMs, databases, and custom APIs
-- Shipping projects that are useful, maintainable, and commercially grounded
+- Building AI agents, automation systems, and developer tools
+- Designing full-stack platforms with scalable architecture
+- Working with modern stacks such as React, Next.js, Node.js, Python, FastAPI, and cloud-based services
+- Integrating technologies like OpenAI, LangChain, n8n, vector databases, Twilio, Stripe, and custom APIs
+- Exploring intelligent routing systems, multi-agent workflows, and AI infrastructure
 
 ---
 
@@ -84,13 +87,15 @@ I’m currently focused on **Crecen IA**, an AI and automation agency where I de
 
 ---
 
-### Selected work
+### Selected Projects
 
 | Project          | Description                                                                                                                  |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Crecen IA**        | AI and automation agency focused on operational workflows, custom assistants, integrations, and business process automation. |
-| **Glazely**          | Web platform for a pastry shop, designed around presentation, product discovery, and a polished customer experience.         |
-| **Guantanamera Web** | Restaurant website with a clean structure, strong visual presence, and practical information architecture.                   |
+| **LLM Router** | Intelligent routing platform that analyzes prompts and selects the most suitable AI model based on quality, latency, cost, and capabilities. |
+| **Crecen IA** | AI and automation agency focused on workflow optimization, AI integrations, internal tools, and operational systems for businesses. |
+| **Explain My Repo** | AI-powered repository analysis tool designed to explain architecture, dependencies, and codebases in a developer-friendly way. |
+| **Glazely** | Modern pastry shop platform focused on branding, presentation, and customer experience. |
+| **Guantanamera Web** | Restaurant platform with structured UX, strong visual identity, and optimized information architecture. |
 
 ---
 
