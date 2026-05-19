@@ -97,8 +97,8 @@ I’m currently focused on **Crecen IA**, an AI and automation agency where I de
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=ceradev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=ceradev&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-alpha.vercel.app/api?username=ceradev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=ceradev&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E" alt="Top languages" />
 </p>
 
 <p align="center">
